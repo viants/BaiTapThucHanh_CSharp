@@ -14,7 +14,7 @@
 - ```pip install translate```
 ## Download and install the JDK for java
 - [oracle.com](https://www.oracle.com/java/technologies/downloads/)
-## Setup project for running
+## Setup path variables project for running
 ```csharp
 string scriptPath = @"direct to \data folder";
 string fileName = @"direct to java.exe and python.exe file" // example: "C:\Program Files\Java\jdk-20\bin\java.exe"
