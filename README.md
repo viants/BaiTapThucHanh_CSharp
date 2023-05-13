@@ -15,10 +15,10 @@ string fileName = "direct to java.exe and python.exe file" // example: "C:\Progr
 * 📂 BaiTapThucHanh
   * 📁 Properties
   *  📂 data
-      *  📁 Sound               → sounds was created are save here
-      *  📄 script.java         → java file for summing two values from agruments
-      *  📄 script.py           → python file for creating message voice files
-      *  📄 translateModule.py  → python file using google translate API for translating messages
+      *  📁 Sound               → `sounds was created are save here`
+      *  📄 script.java         → `java file for summing two values from agruments`
+      *  📄 script.py           → `python file for creating message voice files`
+      *  📄 translateModule.py  → `python file using google translate API for translating messages`
 * 📄 App.config
 * 📄 BaiTapThucHanh.csproj
 * 📄 Form1.Designer.cs
