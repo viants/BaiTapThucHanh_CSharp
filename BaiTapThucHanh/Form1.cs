@@ -27,8 +27,8 @@ namespace BaiTapThucHanh
         
         private void Form1_Load(object sender, EventArgs e)
         {
-            this.comboBox1.Items.AddRange(LangSelect);
-            this.comboBox2.Items.AddRange(LangSelect);
+            this.comboBox1.Items.AddRange(new object[] { "Vietnamese", "English", "Germany", "France" });
+            this.comboBox2.Items.AddRange(new object[] { "Vietnamese", "English", "Germany", "France" });
             this.comboBox1.SelectedIndex = this.select1_Idx;
             this.comboBox2.SelectedIndex = this.select2_Idx;
         }
@@ -77,7 +77,7 @@ namespace BaiTapThucHanh
             if (a_ && b_)
             {
                 string msg = $"{a}\" \"{b}";
-                MessageBox.Show(msg);
+                //MessageBox.Show(msg);
                 SysProcess(scriptPath, fileName, scriptFile, msg, this.kq);
             }
             else
