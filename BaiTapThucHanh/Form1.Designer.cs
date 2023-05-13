@@ -38,7 +38,6 @@
             this.btn_javaRun = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.label4 = new System.Windows.Forms.Label();
             this.comboBox2 = new System.Windows.Forms.ComboBox();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.textTranOut = new System.Windows.Forms.TextBox();
@@ -137,7 +136,6 @@
             // 
             // groupBox2
             // 
-            this.groupBox2.Controls.Add(this.label4);
             this.groupBox2.Controls.Add(this.comboBox2);
             this.groupBox2.Controls.Add(this.comboBox1);
             this.groupBox2.Controls.Add(this.textTranOut);
@@ -151,15 +149,6 @@
             this.groupBox2.TabIndex = 8;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Python";
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(349, 28);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(29, 13);
-            this.label4.TabIndex = 11;
-            this.label4.Text = "Số 1";
             // 
             // comboBox2
             // 
@@ -255,7 +244,6 @@
         private System.Windows.Forms.TextBox textTranOut;
         private System.Windows.Forms.TextBox textTranIn;
         private System.Windows.Forms.ComboBox comboBox1;
-        private System.Windows.Forms.Label label4;
         private System.Windows.Forms.ComboBox comboBox2;
     }
 }
