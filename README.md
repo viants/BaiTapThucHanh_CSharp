@@ -8,8 +8,8 @@
 - [oracle.com](https://www.oracle.com/java/technologies/downloads/)
 ## Setup project for running
 ```csharp
-string scriptPath = "direct to \data fordel";
-string fileName = "direct to java.exe and python.exe file" // example: "C:\Program Files\Java\jdk-20\bin\java.exe"
+string scriptPath = @"direct to \data fordel";
+string fileName = @"direct to java.exe and python.exe file" // example: "C:\Program Files\Java\jdk-20\bin\java.exe"
 ```
 ## Project structure
 * 📂 BaiTapThucHanh
