@@ -33,4 +33,4 @@ string fileName = @"direct to java.exe and python.exe file" // example: "C:\Prog
 * 📄 Form1.cs
 * 📄 Form1.resx
 * 📄 Program.cs
-* 🖼️ [Screenshot.png](https://media.discordapp.net/attachments/876663907975049326/1107017667950424095/Screenshot.png)
+* 🖼️ [Screenshot.png](https://github.com/viants/BaiTapThucHanh_CSharp/blob/master/BaiTapThucHanh/Screenshot.png)
