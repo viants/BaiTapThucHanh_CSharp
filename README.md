@@ -1,11 +1,11 @@
 # Project: BaiTapThucHanh - Môn học: Lập trình trong môi trường Windows
 ## Author
-**Name: Vi Anh Tuan**
-**Student Id: K185480106029**
-**Class: K54KMT.01**
-**Major: Computer Engineering**
-**Lecturer: ThS.Do Duy Cop
-**Email: <k185480106029@tnut.edu.vn>**
+> **Name: Vi Anh Tuan**<br>
+> **Student Id: K185480106029**<br>
+> **Class: K54KMT.01**<br>
+> **Major: Computer Engineering**<br>
+> **Lecturer: ThS.Do Duy Cop**<br>
+> **Email: <k185480106029@tnut.edu.vn>**
 
 ## Install libraries for python
 - ```pip install playsound==1.2.2```
