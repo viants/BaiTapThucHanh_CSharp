@@ -16,7 +16,7 @@
 - [oracle.com](https://www.oracle.com/java/technologies/downloads/)
 ## Setup project for running
 ```csharp
-string scriptPath = @"direct to \data fordel";
+string scriptPath = @"direct to \data folder";
 string fileName = @"direct to java.exe and python.exe file" // example: "C:\Program Files\Java\jdk-20\bin\java.exe"
 ```
 ## Project structure
@@ -33,4 +33,4 @@ string fileName = @"direct to java.exe and python.exe file" // example: "C:\Prog
 * 📄 Form1.cs
 * 📄 Form1.resx
 * 📄 Program.cs
-* 🖼️ Screenshot.png
+* 🖼️ [Screenshot.png](https://media.discordapp.net/attachments/876663907975049326/1107017667950424095/Screenshot.png)
