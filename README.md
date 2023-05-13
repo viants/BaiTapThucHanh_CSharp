@@ -12,7 +12,17 @@ string scriptPath = "direct to \data fordel";
 string fileName = "direct to java.exe and python.exe file" // example: "C:\Program Files\Java\jdk-20\bin\java.exe"
 ```
 ## Project structure
-* 📁 BaiTapThucHanh
+* 📂 BaiTapThucHanh
   * 📁 Properties
   *  📂 data
-      *  📂 Sound
+      *  📁 Sound               → sounds was created are save here
+      *  📄 script.java         → java file for summing two values from agruments
+      *  📄 script.py           → python file for creating message voice files
+      *  📄 translateModule.py  → python file using google translate API for translating messages
+* 📄 App.config
+* 📄 BaiTapThucHanh.csproj
+* 📄 Form1.Designer.cs
+* 📄 Form1.cs
+* 📄 Form1.resx
+* 📄 Program.cs
+* 🖼️ Screenshot.png
