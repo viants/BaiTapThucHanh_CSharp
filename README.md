@@ -8,6 +8,11 @@ this project dont work at lastest lib version
 - [oracle.com](https://www.oracle.com/java/technologies/downloads/)
 ## Setup project for running
 ```csharp
-scriptPath = "direct to \data fordel";
-fileName = "direct to java.exe and python.exe file" // example: "C:\Program Files\Java\jdk-20\bin\java.exe"
+string scriptPath = "direct to \data fordel";
+string fileName = "direct to java.exe and python.exe file" // example: "C:\Program Files\Java\jdk-20\bin\java.exe"
 ```
+## Project structure
+* 📁 BaiTapThucHanh
+  * 📁 Properties
+  *  📂 data
+      *  📂 Sound
