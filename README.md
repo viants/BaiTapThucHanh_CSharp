@@ -1,7 +1,7 @@
 # BaiTapThucHanh
 ## Install libraries for python
 - ```pip install playsound==1.2.2```
-this project dont work at lastest lib version
+`**this project doesn't work at latest library ersion**`
 - ```pip install gTTS```
 - ```pip install translate```
 ## Download and install the JDK for java
