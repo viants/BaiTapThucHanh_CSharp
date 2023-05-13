@@ -9,7 +9,7 @@
 
 ## Install libraries for python
 - ```pip install playsound==1.2.2```
-> this project doesn't work at latest library ersion
+> this project doesn't work at latest library version
 - ```pip install gTTS```
 - ```pip install translate```
 ## Download and install the JDK for java
