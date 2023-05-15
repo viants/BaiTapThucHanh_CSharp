@@ -23,8 +23,8 @@ string fileName = @"direct to java.exe and python.exe file" // example: "C:\Prog
 * 📂 BaiTapThucHanh
   * 📁 Properties
   *  📂 data
-      *  📁 Sound               → `sounds was created are save here`
-      *  📄 [script.java](https://github.com/viants/BaiTapThucHanh_CSharp/blob/master/BaiTapThucHanh/data/script.java)         → `java file for summing two values from agruments`
+      *  📁 Sound               → `sounds were created are save here`
+      *  📄 [script.java](https://github.com/viants/BaiTapThucHanh_CSharp/blob/master/BaiTapThucHanh/data/script.java)         → `java file for summing two values from arguments`
       *  📄 [script.py](https://github.com/viants/BaiTapThucHanh_CSharp/blob/master/BaiTapThucHanh/data/script.py)           → `python file for creating message voice files`
       *  📄 [translateModule.py](https://github.com/viants/BaiTapThucHanh_CSharp/blob/master/BaiTapThucHanh/data/translateModule.py)  → `python file using google translate API for translating messages`
 * 📄 App.config
